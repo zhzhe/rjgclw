@@ -1,0 +1,26 @@
+Windows下日常软件：
+
+*文本编辑：
+1. notepad++：开源软件；
+2. gvim：开源软件；
+
+
+*程序代码阅读：
+1. sourceinsight 3.5 ： 收费软件，可以破解；
+
+*程序开发：
+1. eclipse ： 免费软件；
+2. 
+
+*图像捕捉：
+1. GreenShot ：开源软件，sourceforge；
+
+*网页浏览：
+1. firefox： 开源软件；
+
+*邮件收发：
+1. foxmail： 免费软件；
+2. becky：	收费软件，可以得到注册码；
+
+*电子书制作工具：
+1. calibre： 开源软件；
